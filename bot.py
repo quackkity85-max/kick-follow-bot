@@ -2,7 +2,7 @@ import tls_client, random, sys, console, concurrent.futures, bs4, threading
 from tls_client import exceptions as tls_exceptions
 from kasada import kasada, salamoonder
 
-channel = input("Follow Channel: ")
+channel = input("Follow Channel: Oshih ")
 tokens = input("Tokens file: ")
 proxies = input("Proxies file: ")
 threads = int(input("Threads Count: "))
